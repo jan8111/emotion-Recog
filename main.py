@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
 import os
-import numpy as np
-import sys
 import caffe
 
 DEMO_DIR = ''
