@@ -1,0 +1,1 @@
+mvNCCompile ./deploy2.prototxt -w ./EmotiW_VGG_S.caffemodel -s 12 -o EmotiW_VGG_S.graph
